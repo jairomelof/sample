@@ -1,5 +1,5 @@
 objectid,parentid,format,filename,title,latitude,longitude,date,subject,location,description,language
-post_01,,multiple,,Frankfurt a. M. Kaiserstrasse mit Uhrtürmchen,50.110556,8.682222,1911,subject1;subject2;subject3,"Clock Tower, Frankfurt, Germany",Kaiser Street and Clock Tower Intersection,De
+post_01,,multiple,,Frankfurt a. M. Kaiserstrasse mit Uhrtürmchen,50.11576,8.69556,1911,subject1;subject2;subject3,"Clock Tower, Frankfurt, Germany",Kaiser Street and Clock Tower Intersection,De
 post_01_f,post_01,image/jpg,post_01_f.jpg,Front,,,,,,,
 post_01_b,post_01,image/jpg,post_01_b.jpg,Back,,,,,,,
 post_02,,multiple,,Grand Hotel Frankfurter Hof . Frankfurt A/Main,50.115278,8.684167,1911,subject1;subject2;subject3,"Grand Hotel Frankfurter Hof, Frankfurt, Germany","Grand Hotel Frankfurter Hof, color illustration",De
